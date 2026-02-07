@@ -1,1 +1,1 @@
-4.txt for clonig the repo in githib and push it to remote from local
+4.txt for clonig the repo in github and push it to remote from local
