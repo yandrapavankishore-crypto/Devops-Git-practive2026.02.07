@@ -1,3 +1,4 @@
 second txt file
  small change
 
+my change
